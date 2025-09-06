@@ -1,13 +1,6 @@
-<!--
-Banner: A custom, beautiful banner makes a great first impression.
-This one is created specifically for "matinamking".
--->
-
 <div align="center">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner">
 </div>
-
-<!-- Typing SVG Animation -->
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -15,7 +8,6 @@ This one is created specifically for "matinamking".
 </a>
 </div>
 
-<!-- Social Links & Visitor Counter -->
 
 <p align="center">
 <a href="https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/matinamking" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -24,17 +16,15 @@ This one is created specifically for "matinamking".
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmatinamking%26label%3DPROFILE%2520VIEWS%26color%3D00D2FF%26style%3Dfor-the-badge" alt="Profile views"/>
 </p>
 
-<!-- Divider -->
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/divider.gif" width="100%">
 </div>
 
-<!-- Main Content: About Me (Bilingual) + GitHub Stats -->
 
 <table>
 <tr>
-<!-- Left Column: About Me -->
+
 <td valign="top" width="65%">
 <details open>
 <summary>🇮🇷 <strong>درباره من (فارسی)</strong></summary>
@@ -63,7 +53,6 @@ This one is created specifically for "matinamking".
   </details>
 </td>
 
-<!-- Right Column: GitHub Stats -->
 <td valign="top" width="35%">
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=matinamking&show_icons=true&theme=react&border_color=00D2FF&include_all_commits=true&count_private=true" alt="Matin's GitHub Stats"/>
@@ -77,7 +66,6 @@ This one is created specifically for "matinamking".
 </tr>
 </table>
 
-<!-- Divider -->
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/divider.gif" width="100%">
@@ -90,7 +78,6 @@ This one is created specifically for "matinamking".
 </a>
 </p>
 
-<!-- Divider -->
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/divider.gif" width="100%">
@@ -101,7 +88,6 @@ This one is created specifically for "matinamking".
 <img src="https://www.google.com/search?q=https://github.com/matinamking/matinamking/blob/output/github-contribution-grid-snake-dark.svg%3Fpalette%3Dgithub-dark" alt="Snake animation">
 </div>
 
-<!-- Footer -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">

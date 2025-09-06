@@ -1,27 +1,21 @@
 <div align="center">
-<!-- This banner link seems to be from a specific commit. Make sure it's the one you want. -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/4fb38900ca52a5e221738251d4d7d4bb627763a7/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner">
 </div>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<!-- FIXED: Removed the Google search URL wrapper -->
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D28%26pause%3D1000%26color%3D00D2FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DWelcome%2Bto%2Bmy%2BDigital%2BGarden%2B%25F0%259F%258C%25B1%3BI%27m%2Ba%2BFull-Stack%2BDeveloper%3BPHP%2B%257C%2BLaravel%2B%257C%2BVue.js%2BExpert" alt="Typing SVG">
 </a>
 </div>
 
 <p align="center">
-<!-- FIXED: Removed Google search URL wrappers from links -->
 <a href="https://www.google.com/search?q=https://linkedin.com/in/matinamking" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.google.com/search?q=https://instagram.com/matinamking" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<!-- REMINDER: Replace YOUR_EMAIL@example.com with your actual email address -->
 <a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<!-- FIXED: Removed the Google search URL wrapper -->
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmatinamking%26label%3DPROFILE%2520VIEWS%26color%3D00D2FF%26style%3Dfor-the-badge" alt="Profile views"/>
 </p>
 
 <div align="center">
-<!-- This divider is also from a specific commit. Using the 'main' branch version might be more consistent -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/4fb38900ca52a5e221738251d4d7d4bb627763a7/divider.gif" width="100%">
 </div>
 
@@ -58,7 +52,6 @@
 
 <td valign="top" width="35%">
   <div align="center">
-    <!-- These Vercel app links for stats were correct, no changes needed here -->
     <img src="https://github-readme-stats.vercel.app/api?username=matinamking&show_icons=true&theme=react&border_color=00D2FF&include_all_commits=true&count_private=true" alt="Matin's GitHub Stats"/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinamking&layout=compact&theme=react&border_color=00D2FF" alt="Top Languages"/>
@@ -71,7 +64,6 @@
 </table>
 
 <div align="center">
-<!-- FIXED: Removed the Google search URL wrapper -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/divider.gif" width="100%">
 </div>
 
@@ -79,20 +71,17 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<!-- FIXED: Removed the Google search URL wrapper -->
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,livewire,js,vue,alpinejs,html,css,bootstrap,tailwind,mysql,figma,git,docker,postman%26perline%3D8" />
 </a>
 </p>
 
 <div align="center">
-<!-- FIXED: Removed the Google search URL wrapper -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/divider.gif" width="100%">
 </div>
 
 🐍 بازی مار روی نمودار فعالیت من | My GitHub Contribution Snake
 
 <div align="center">
-<!-- FIXED: Changed the GitHub blob link to the raw content link for the snake SVG -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </div>
 

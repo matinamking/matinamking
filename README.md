@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner">
+<img src="https://github.com/matinamking/matinamking/blob/aec75130ce2a3cb8c7068763bf4b7362a0b5396d/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner">
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/divider.gif" width="100%">
+<img src="https://github.com/matinamking/matinamking/blob/aec75130ce2a3cb8c7068763bf4b7362a0b5396d/divider.gif" width="100%">
 </div>
 
 

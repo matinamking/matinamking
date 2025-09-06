@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner">
 </div>
 
 <div align="center">
@@ -8,23 +8,21 @@
 </a>
 </div>
 
-
 <p align="center">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/matinamking" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://instagram.com/matinamking" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/matinamking" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.google.com/search?q=https://instagram.com/matinamking" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmatinamking%26label%3DPROFILE%2520VIEWS%26color%3D00D2FF%26style%3Dfor-the-badge" alt="Profile views"/>
 </p>
 
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/divider.gif" width="100%">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/divider.gif" width="100%">
 </div>
 
 
 <table>
 <tr>
-
 <td valign="top" width="65%">
 <details open>
 <summary>🇮🇷 <strong>درباره من (فارسی)</strong></summary>
@@ -68,7 +66,7 @@
 
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/divider.gif" width="100%">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/divider.gif" width="100%">
 </div>
 
 🚀 جعبه‌ابزار فنی من | My Tech Stack
@@ -78,16 +76,14 @@
 </a>
 </p>
 
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matin-ghasemi-me/matin-ghasemi-me/main/divider.gif" width="100%">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/matinamking/matinamking/main/divider.gif" width="100%">
 </div>
 
 🐍 بازی مار روی نمودار فعالیت من | My GitHub Contribution Snake
 <div align="center">
 <img src="https://www.google.com/search?q=https://github.com/matinamking/matinamking/blob/output/github-contribution-grid-snake-dark.svg%3Fpalette%3Dgithub-dark" alt="Snake animation">
 </div>
-
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">

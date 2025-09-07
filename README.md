@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=;Welcome+to+my+Digital+Garden+🌱;I'm+a+Full-Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+Expert&_=12345" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=WWelcome+to+my+Digital+Garden+🌱;I'm+a+Full-Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+Expert&_=12345" alt="Typing SVG"/>
 </div>
 
 <p align="center">

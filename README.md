@@ -62,7 +62,7 @@
 
 ### 🚀 جعبه‌ابزار فنی من | My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,js,vue,alpinejs,html,css,bootstrap,tailwind,mysql,figma,git,docker,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,alpinejs,html,css,bootstrap,tailwind,mysql,figma,git,docker,postman&perline=8" />
 </p>
 
 ---

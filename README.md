@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/matinamking/matinamking/main/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner">
+<img src="https://raw.githubusercontent.com/matinamking/matinamking/main/banner.png" alt="Matin Ghasemi - Full-Stack Developer Banner" style="width: 100%;">
 </div>
 
 <div align="center">
@@ -13,13 +13,12 @@
 <img src="https://komarev.com/ghpvc/?username=matinamking&label=PROFILE%20VIEWS&color=00D2FF&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<details open align="center">
-<summary><h3><strong>🇮🇷 درباره من | About Me 🇬🇧</strong></h3></summary>
-<br/>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<p dir="rtl" align="right">
+<hr>
+
+<div align="center">
+
+🇮🇷 درباره من
+<p dir="rtl" align="center" style="max-width: 600px;">
 سلام! من <strong>متین قاسمی</strong> هستم، یک مهندس کامپیوتر و توسعه‌دهنده فول‌استک با تمرکز ویژه بر بک‌اند. 👨‍💻
 <br><br>
 عاشق تبدیل ایده‌های پیچیده به محصولات نرم‌افزاری <strong>مقیاس‌پذیر، قابل‌اعتماد و زیبا</strong> هستم. به اصول کدنویسی تمیز (Clean Code) و معماری پایدار (SOLID) عمیقاً پایبندم و معتقدم کد خوب، کدی است که به راحتی قابل توسعه و نگهداری باشد. همیشه در حال یادگیری و کاوش در دنیای تکنولوژی برای بهبود مهارت‌هایم هستم.
@@ -28,9 +27,11 @@
 🔹 <strong>تجربه:</strong> بیش از <strong>دو سال تجربه</strong> در توسعه وب (همکاری با شرکت‌ها و پروژه‌ای)<br/>
 🔹 <strong>مسیر یادگیری فعلی:</strong> تقویت مهارت‌های فرانت‌اند، Docker و مفاهیم DevOps برای تسلط بر چرخه کامل توسعه نرم‌افزار.
 </p>
-</td>
-<td width="50%" valign="top">
-<p align="left">
+
+<br>
+
+🇬🇧 About Me
+<p align="center" style="max-width: 600px;">
 Hi there! I'm Matin Ghasemi, a Computer Engineer and Full-Stack Developer with a strong focus on the back-end. 👨‍💻
 <br><br>
 I'm passionate about transforming complex ideas into <strong>scalable, reliable, and elegant</strong> software solutions. As a firm believer in Clean Code principles and SOLID architecture, I'm convinced that good code is both maintainable and extensible. I'm constantly learning and exploring the tech world to enhance my skills.
@@ -39,25 +40,34 @@ I'm passionate about transforming complex ideas into <strong>scalable, reliable,
 🔹 <strong>Experience:</strong> Over <strong>2 years of hands-on experience</strong> in web development (corporate and project-based).<br/>
 🔹 <strong>Current Learning Path:</strong> Sharpening my front-end skills, diving deeper into <strong>Docker</strong>, and mastering <strong>DevOps</strong> concepts to command the full development lifecycle.
 </p>
-</td>
-</tr>
-</table>
-</details>
+</div>
+
+<hr>
 
 📊 آمار گیت‌هاب من | My GitHub Stats
+<!--
+IMPORTANT: To show private contributions, you need to deploy your own instance of 'github-readme-stats' on Vercel.
+The public API cannot access private data for security reasons.
+I have added the correct parameters (&amp;count_private=true&amp;include_all_commits=true),
+so if you set up your own instance, these URLs will work correctly.
+-->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=matinamking&show_icons=true&theme=react&border_color=00D2FF&include_all_commits=true&count_private=true" alt="Matin's GitHub Stats"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmatinamking%26show_icons%3Dtrue%26theme%3Dtokyonight%26border_color%3D00D2FF%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Matin's GitHub Stats"/>
 <br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmatinamking%26layout%3Dcompact%26theme%3Dreact%26border_color%3D00D2FF%26langs_count%3D8" alt="Top Languages"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmatinamking%26layout%3Dcompact%26theme%3Dtokyonight%26border_color%3D00D2FF%26langs_count%3D8" alt="Top Languages"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=matinamking&theme=react&border_color=00D2FF" alt="GitHub Streak"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dmatinamking%26theme%3Dtokyonight%26border_color%3D00D2FF" alt="GitHub Streak"/>
 </div>
+
+<hr>
 
 🚀 جعبه‌ابزار فنی من | My Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,alpinejs,html,css,bootstrap,tailwind,mysql,figma,git,docker,postman&perline=8" />
 </p>
+
+<hr>
 
 🐍 نمودار فعالیت‌های گیت‌هاب | GitHub Contribution Snake
 <div align="center">

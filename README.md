@@ -40,23 +40,33 @@ Hi! I'm **Matin Ghasemi**, a Computer Engineer and Full-Stack Developer focused 
 
 ---
 
-# 📊 GitHub Stats (public only)
+# 📊 آمار گیت‌هاب — تمام پروژه‌ها (Public + Private)
 
-> **Important:** I fixed the broken image links — they used to point to Google search URLs. These are now direct API image endpoints which GitHub can render in README.
+> برای اینکه آمار **تمام** پروژه‌ها (هم public و هم private) و **کل کامیت‌ها (تمام دوره زمانی)** در تصاویر نمایش داده شوند، باید آدرس API را به یک نمونهٔ self-hosted از `github-readme-stats` اشاره دهی که در Vercel/Netlify/Heroku دیپلوی شده و `GITHUB_TOKEN` با دسترسی لازم در آن تنظیم شده باشد. در ادامه دو حالت آورده شده: حالت self-hosted (پیشنهادی) و حالت fallback عمومی.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matinamking&show_icons=true&theme=tokyonight&border_color=00D2FF" alt="Matin's GitHub Stats" />
+<!-- حالت پیشنهادی: اگر خودت سرویس را دیپلوی کردی، آدرس زیر را با آدرس Vercel/Netlify خودت جایگزین کن -->
+
+<img src="https://<your-vercel>.vercel.app/api?username=matinamking&show_icons=true&theme=tokyonight&border_color=00D2FF&count_private=true&include_all_commits=true" alt="Matin's GitHub Stats (private + public)" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinamking&layout=compact&theme=tokyonight&border_color=00D2FF&langs_count=8" alt="Top Languages" />
+<img src="https://<your-vercel>.vercel.app/api/top-langs/?username=matinamking&layout=compact&theme=tokyonight&border_color=00D2FF&langs_count=8&count_private=true" alt="Top Languages (including private)" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=matinamking&theme=tokyonight&border_color=00D2FF" alt="GitHub Streak" />
+<img src="https://<your-vercel>.vercel.app/api/streak?user=matinamking&theme=tokyonight&border_color=00D2FF&count_private=true&include_all_commits=true" alt="GitHub Streak (including private)" />
 
 </div>
+
+**Fallback (public-only):**
+
+اگر هنوز سرویس را self-host نکردی و می‌خواهی README بدون تغییر نمایش داده شود، از آدرس عمومی زیر استفاده کن (این حالت تنها ریپوی‌های public را حساب می‌کند):
+
+```markdown
+<img src="https://github-readme-stats.vercel.app/api?username=matinamking&show_icons=true&theme=tokyonight&border_color=00D2FF" alt="Matin's GitHub Stats" />
+```
 
 ---
 

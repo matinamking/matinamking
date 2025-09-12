@@ -49,18 +49,13 @@ I'm passionate about transforming complex ideas into <strong>scalable, reliable,
 
 📊 آمار گیت‌هاب من | My GitHub Stats
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats-5akro5fep-matins-projects-575a8407.vercel.app/api%3Fusername%3Dmatinamking%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26theme%3Dtokyonight%26border_color%3D00D2FF%26text_color%3D00D2FF%26icon_color%3D00D2FF" alt="Matin's GitHub Stats"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats-3y8s80awa-matins-projects-575a8407.vercel.app/api%3Fusername%3Dmatinamking%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26theme%3Dtokyonight%26border_color%3D00D2FF%26text_color%3D00D2FF%26icon_color%3D00D2FF" alt="Matin's GitHub Stats"/>
 <br>
-<img src="https://www.google.com/search?q=https://github-readme-stats-5akro5fep-matins-projects-575a8407.vercel.app/api/top-langs/%3Fusername%3Dmatinamking%26layout%3Dcompact%26count_private%3Dtrue%26theme%3Dtokyonight%26border_color%3D00D2FF" alt="Top Languages"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats-3y8s80awa-matins-projects-575a8407.vercel.app/api/top-langs/%3Fusername%3Dmatinamking%26layout%3Dcompact%26count_private%3Dtrue%26theme%3Dtokyonight%26border_color%3D00D2FF" alt="Top Languages"/>
 <br>
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dmatinamking%26theme%3Dtokyonight%26border_color%3D00D2FF" alt="GitHub Streak"/>
 </div>
 
 🐍 نمودار فعالیت‌های گیت‌هاب | My GitHub Contribution Snake
 <div align="center">
-<img src="https://raw.githubusercontent.com/matinamking/matinamking/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</div>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</p>
+<img src="https://raw.githubusercontent.com/matinamking/matinamking/output/github-contribution-grid-snake-dark.svg" alt="Snake

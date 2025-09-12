@@ -44,18 +44,23 @@ I'm passionate about transforming complex ideas into <strong>scalable, reliable,
 
 🚀 جعبه‌ابزار فنی من | My Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,alpinejs,html,css,bootstrap,tailwind,mysql,figma,git,docker,postman&perline=7" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,js,vue,alpinejs,html,css,bootstrap,tailwind,mysql,figma,git,docker,postman%26perline%3D7" />
 </p>
 
 📊 آمار گیت‌هاب من | My GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats-3y8s80awa-matins-projects-575a8407.vercel.app/api%3Fusername%3Dmatinamking%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26theme%3Dtokyonight%26border_color%3D00D2FF%26text_color%3D00D2FF%26icon_color%3D00D2FF" alt="Matin's GitHub Stats"/>
-<br>
-<img src="https://github-readme-stats-3y8s80awa-matins-projects-575a8407.vercel.app/api/top-langs/%3Fusername%3Dmatinamking%26layout%3Dcompact%26count_private%3Dtrue%26theme%3Dtokyonight%26border_color%3D00D2FF" alt="Top Languages"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dmatinamking%26theme%3Dtokyonight%26border_color%3D00D2FF" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=matinamking&show_icons=true&theme=react&border_color=00D2FF&include_all_commits=true&count_private=true" alt="Matin's GitHub Stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinamking&layout=compact&theme=react&border_color=00D2FF" alt="Top Languages"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=matinamking&theme=react&border_color=00D2FF" alt="GitHub Streak"/>
 </div>
 
 🐍 نمودار فعالیت‌های گیت‌هاب | My GitHub Contribution Snake
 <div align="center">
-<img src="https://raw.githubusercontent.com/matinamking/matinamking/output/github-contribution-grid-snake-dark.svg" alt="Snake
+<img src="https://raw.githubusercontent.com/matinamking/matinamking/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</p>
